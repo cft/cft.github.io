@@ -1,0 +1,23 @@
+exclude: ['CNAME', 'Gemfile*', '*.py', '*.sql', 'venv', 'output', 'books', 'library-index.html']
+
+title: Christianity For Today
+
+meta:
+  description: ChristianityForToday.com is the home of the biblical teachings of Pastor Art
+  keywords: 'christian, christianity for today, lord jesus christ, religious podcast, become a christian, learn about god, peace with god, the kingdom of god, who was jesus, billy graham, salvation'
+  rating: safe for kids
+  viewport: 'width=device-width,initial-scale=1'
+  ua_compatible: 'IE=edge'
+  copyright_owner: Christianity For Today
+  copyright_year: 2005
+
+assets:
+  css:
+    site: '/css/screen.css'
+  favicon: '/favicon.ico'
+
+analytics:
+  google: 'UA-2488726-2'
+  google_src: '//google-analytics.com/analytics.js'
+  quantcast: 'p-Ms3Zhq2M9zCum'
+  quantcast_src: '//quantserve.com/quant.js'
