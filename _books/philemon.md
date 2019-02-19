@@ -1,0 +1,14 @@
+---
+layout: book_index
+book_index: philemon
+title: The Book of Philemon
+soundcloud_url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/185706107%3Fsecret_token%3Ds-p81TU
+---
+
+Philemon is a private letter written by the Apostle Paul from his Roman imprisonment to Philemon, one of his converts and a good friend who lived in Colossae, located in present-day Turkey. A group of local Christians regularly met in Philemon's home as the Church in Colossae. Philemon, being of some standing in the society of his time, had slaves. One of them, Onesimus, had apparently stolen a significant amount of money and run away to Rome where he could easily escape detection. It is there that Onesimus came into contact with the imprisoned Apostle Paul and became a Christian. From the letter it is evident that the Apostle Paul not only loved and held Philemon in high regard, but he also loved the young slave Onesimus like a son.
+
+After Onesimus' conversion the problem was that he remained Philemon's legal property. The crimes that Onesimus committed carried with them punishment. Although the Apostle Paul enjoyed Onesimus' company, he could not keep him there in Rome without Philemon's willing consent. So he wrote the letter of Philemon as a "covering note" for Onesimus and sent him back to Philemon to make amends. Paul's intention in writing was to ask Philemon to be lenient with the run-away slave. The Apostle took care in explaining the conversion of Onesimus, who was returning to his master as a very different man. He was not just a slave now, but a brother-Christian and the Apostle wanted wanted Philemon to welcome him as such.
+
+This letter is loving, tactful, considerate, and full of warm praise. Paul knows Philemon - his faith and Christian love. From verses 15 and 16 it is not clear whether Paul has any thought of Onesimus being set free. Slavery was such an integral part of the social structure of the day - the ancient Roman empire had over 60 million slaves in those days - that to preach freedom would have been tantamount to revolution. Paul's brief was not to engage in political campaigning, but preach a gospel capable of transforming human life from within.
+
+Bible scholars believe that the Apostle Paul's friend Tychicus accompanied Onesimus back to Philemon's household to keep him company during the journey and to provide moral support upon arriving back. Tychicus also carried with him the letter to the Colossian Church bearing the latest news from the Apostle Paul (Colossians 4:7-9). Pastor Art uses the short letter of Philemon as a model for change and transformation. In his short message Pastor Art discusses how modern day Christians can affect change in an ungodly culture through the message of love.',''

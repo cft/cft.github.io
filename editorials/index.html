@@ -1,0 +1,35 @@
+---
+layout: masthead
+title: Editorials
+subhead: Thoughts by Pastor Art and Others
+permalink: /editorials/
+---
+<div class="container">
+  <div class="row block-links editorial-list">
+    <div class="col-md-12">
+      <div class="panel">{% assign editorials = site.editorials | sort: 'date' %}
+        <div class="panel-body">{% for editorial in editorials reversed %}
+          <a href="{{ editorial.url }}" title="{{ editorial.title }}">
+            <div class="row">
+              <div class="col-sm-3 text-center">
+                <img src="{{ editorial.img_thumb }}" class="img-thumbnail img-responsive">
+              </div>
+              <div class="col-sm-9">
+                <h3>{{ editorial.title }}{% assign author = site.data.people[editorial.author] %}
+                  <p class="small">{{ editorial.date | date: "%B %-d, %Y" }} &middot; {{ author.name }}{% if author.caption %} &ndash; {{ author.caption }}{% endif %}</p>
+                </h3>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <p>{{ editorial.description }}</p>
+                    <div class="lead btn btn-default btn-sm">Read More</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+          <hr>{% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

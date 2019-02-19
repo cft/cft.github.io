@@ -1,0 +1,34 @@
+---
+layout: default
+title: Books of the Bible
+permalink: /books/
+redirect_from:
+  - /lessons/
+  - /title/
+---
+<div id="masthead">
+  <div class="container">
+    <header>
+      <h1>Books of the Bible
+        <p class="lead">Lessons from Pastor Art</p>
+      </h1>
+    </header>
+  </div>
+</div>
+<div class="container">
+  <div class="row block-links">
+    <div class="col-md-12">
+      <div class="panel">
+        <div class="panel-body">{% for book in site.data.books %}
+          {% cycle '<div class="row">', nil %}<div class="col-md-6">
+            <a href="/books/{{ book.id }}/" title="{{ book.title }}">
+              <h3>{{ book.title }}</h3>
+              <p>{{ book.excerpt }}</p>
+              <div class="lead btn btn-default btn-sm">Read More</div>
+            </a>
+          </div>{% cycle nil, '</div><hr>' %}{% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

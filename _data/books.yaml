@@ -1,0 +1,204 @@
+- id: genesis
+  title: Genesis
+  excerpt: 'The book of Genesis is a book of beginnings - the beginning of the world, of the human race, of a man of faith and a family of faith.'
+- id: exodus
+  title: Exodus
+  excerpt: 'The name "Exodus" is a Latin word taken from the Greek "Exodos," which was the name the translators gave the book when they translated the Hebrew version into the Greek Old Testament known as the Septuagint (LXX).'
+- id: numbers
+  title: Numbers
+  excerpt: 'The book of Numbers comes from the Septuagint (LXX) and is named for the census lists found in chapters 1 and 26. The Hebrew title of this book is "bemidbar" and means "in the desert," which covers the content of the book more accurately. This is the record of the ca. 40 year wilderness wanderings of Israel before they entered the Promised Land.'
+- id: joshua
+  title: Joshua
+  excerpt: 'Joshua is a record of the conquest of the Promised Land. After some 400 years of bondage in Egypt and now 40 years in the wilderness, Joshua and the people entered the land promised to Abraham, Isaac and Jacob. They first had to overcome the kings of Canaan before they could distribute the land to the 12 tribes of Israel.'
+- id: judges
+  title: Judges
+  excerpt: 'Judges tells of the leaders of Israel between Joshua and the beginning of the monarchy, a period of three to four hundred years. There is a recurring cycle at this time in the life of Israel: sin, domination by a foreign power, repentance on the part of Israel, and finally, God raises up a judge who delivers Israel from foreign domination.'
+- id: ruth
+  title: Ruth
+  excerpt: 'Ruth is a short love story of four chapters. It is a bright spot in the otherwise dark period of the Judges. In the story, God brings together Ruth of Moab and Boaz of Israel. Of great significance is the fact that Boaz and Ruth are in the genealogy of King David and of the Messiah, Jesus Christ (Matthew 1:5-6 and Luke 3:32).'
+- id: 1st-samuel
+  title: 1st Samuel
+  excerpt: 'First and Second Samuel are named after the man, Samuel, who transitioned Israel from the rule of the judges to the monarchy. Samuel anointed both Saul and David as the first two successive kings of Israel.'
+- id: 2nd-samuel
+  title: 2nd Samuel
+  excerpt: "Second Samuel is all about David's kingship and family. He ruled seven years over Judah and thirty-three years over the United Kingdom of the south (Judah) and the north (Israel) for a total of 40 years. During this reign there were highs and lows. But through it all David showed, that in spite of his imperfections, he had a heart for God."
+- id: 1st-kings
+  title: 1st Kings
+  excerpt: "The book of First Kings covers the very end of the Davidic reign, the reign of his son Solomon over the United Kingdom, the building of the Temple, and after Solomon's death, the division of the kingdom into two parts - Israel in the north and Judah in the south."
+- id: 2nd-kings
+  title: 2nd Kings
+  excerpt: 'The book of Second Kings covers the last 130 years of the Northern Kingdom of Israel and the last 250 years of the Southern Kingdom of Judah. It records the translation of the prophet Elijah into heaven in a fiery chariot and the subsequent ministry of his successor, Elisha. The prophet Elisha ministered to Israel, Judah and even to foreign countries.'
+- id: nehemiah
+  title: Nehemiah
+  excerpt: "The Old Testament books of Ezra and Nehemiah go together. They tell the story of Israel's return to the Land of Promise from the exile in Babylon."
+- id: esther
+  title: Esther
+  excerpt: 'The book of Esther is unique in the Old Testament in that it does not once mention the names of God (Yahweh or Elohim). And yet it is highly esteemed among the Jewish people.'
+- id: psalms
+  title: The Psalms
+  excerpt: 'The writers of the psalms express a wide range of feelings and experiences, from depression to joy. These experiences are based on particular circumstances in the days of the Psalmist, yet they are applicable to our daily lives today in the 21st century. The modern age is not unique—we feel the same emotions and are often confounded by the same kinds of issues and problems in life. Whether we cry out in need, or extend worship, it is to the same God today as in the days of the Psalmist.'
+- id: isaiah
+  title: Isaiah
+  excerpt: 'The book of Isaiah has been called by some "The Fifth Gospel" because it has so much to say about the Messiah. The New Testament identifies Jesus as the Messiah that Isaiah foretold.'
+- id: ezekiel
+  title: Ezekiel
+  excerpt: 'The writer of this book is Ezekiel, the prophet-priest of the Babylonian exile. He was exiled along with 10,000 Jews from Judea to Babylon by King Nebuchadnezzar in 597 B.C. In 586 B.C. there was a final siege on Jerusalem by the Babylonians, at which time the city and the Temple were burned.'
+- id: daniel
+  title: Daniel
+  excerpt: 'Daniel was a prophet of the late Babylonian exile period. The book is of the apocalyptic genre in the same class as Ezekiel, Zechariah and Revelation. The period is during that of the successive world powers of Babylonia, the Medes and the Persians and Persia. The inspired author of the book is not known. However, it may well have been the prophet, Daniel, himself.'
+- id: hosea
+  title: Hosea
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: joel
+  title: Joel
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: amos
+  title: Amos
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: obadiah
+  title: Obadiah
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: jonah
+  title: Jonah
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: micah
+  title: Micah
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: nahum
+  title: Nahum
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: habakkuk
+  title: Habakkuk
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: zephaniah
+  title: Zephaniah
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: haggai
+  title: Haggai
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: zechariah
+  title: Zechariah
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: malachi
+  title: Malachi
+  excerpt: 'There are 12 Minor Prophets in the Old Testament: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. The five Major Prophets are Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. The "major" and "minor" designations have nothing to do with the importance of the prophecy. All the prophets, major and minor, are important. These designations have to do with the length of the prophecy or book. The Major Prophets are longer and the Minor Prophets are shorter in length.'
+- id: matthew
+  title: The Gospel of Matthew
+  excerpt: 'The Gospel of Matthew is the life story of Jesus - his birth, teachings, miracles, death and resurrection.'
+- id: mark
+  title: The Gospel of Mark
+  excerpt: "The Gospel of Mark is an action packed narrative of Jesus' activities while on planet Earth."
+- id: luke
+  title: The Gospel of Luke
+  excerpt: 'The Gospel of Luke was written by Luke, the beloved physician (Colossians 4:14). He was not one of the original 12 disciples of Jesus, but nevertheless came upon the Christian scene quite early.'
+- id: john
+  title: The Gospel of John
+  excerpt: "The Gospel of John is a record primarily of what Jesus said, especially claims He made about himself. The style of the writer is different than Mathew's Gospel which records Jesus' sayings."
+- id: acts
+  title: The Book of Acts
+  excerpt: "Acts chronicles the history of the early Christian Church from its inception on the Day of Pentecost in Jerusalem (Acts 2) through the Apostle Paul's imprisonment in Rome (Acts 28). The book's author describes the spread of Christianity from Jerusalem westward over a thirty-year period around the northern Mediterranean area through present-day Syria, Turkey, Greece, and on to Rome."
+- id: romans
+  title: The Book of Romans
+  excerpt: 'The letter to the Romans was written by the Apostle Paul, the converted Jew and Roman citizen, about AD 57. Having undertaken three missionary trips, where he had pioneered the Christian message throughout much of the Roman Empire, Paul had not yet visited Rome. Paul felt a call to expand his missionary endeavors further westward. As he planned it, while heading in the direction of Spain, he would finally fulfill the ambition of years and visit the Christians in Rome.'
+- id: 1st-corinthians
+  title: 1st Corinthians
+  excerpt: "The book of First Corinthians was authored by the Apostle Paul (1Cor. 1:1). The letter was written about A.D. 55 toward the end of Paul's three year ministry in Ephesus (1Cor. 16:8)."
+- id: 2nd-corinthians
+  title: 2nd Corinthians
+  excerpt: 'The book of Second Corinthians was most likely also written in A.D. 55, but from Macedonia (2Cor 2:13; 7:5). Paul is the author (2Cor. 1:1). This letter is intensely personal and contains more autobiographical material than any of his other writings.'
+- id: galatians
+  title: The Book of Galatians
+  excerpt: 'The book of Galatians was written by the Apostle Paul, a converted Jew, to Gentile Christians living in the large Roman Province of Galatia, which extended throughout much of present day north-central Turkey. It is not only the first book Paul wrote, it is also, along with the book of James, one of the earliest books (ca. AD 47) of the entire New Testament-maybe even ahead of the gospels!'
+- id: ephesians
+  title: The Book of Ephesians
+  excerpt: "By way of his missionary journeys Paul spent extended time in the province of Asia in Ephesus and other cities. He established friendships with many there. Interestingly, Paul's letter to the Ephesians has none of his usual personal greetings and does not deal with any particular problems or news. Therefore, most Bible scholars believe that the Book of Ephesians began as a circular letter written by Paul to a group of churches in what is now western Turkey."
+- id: philippians
+  title: The Book of Philippians
+  excerpt: 'The book of Philippians is one of four Prison Epistles (Ephesians, Philippians, Colossians and Philemon), written by the Apostle Paul while he was in prison for his Christian faith. The place of writing was either Caesarea (Acts 24:27) or Rome (Acts 28:30). He spent two years in prison in each location and would have had opportunity to write these letters. Probably he wrote this letter from Rome about A.D.61.'
+- id: colossians
+  title: The Book of Colossians
+  excerpt: 'The book of Colossians is one of four "Prison Epistles" (Ephesians, Philippians, Colossians and Philemon) written by the Apostle Paul about A.D. 60 - 61. The village of Colosse was a Roman city in Asia Minor (modern Turkey) at the base of the 8,000 foot Mt. Cadmus in the Lycus River valley 100 miles east of Ephesus. Actually, there were three small towns in this valley: Colosse, Laodicaea and Hierapolis. All three are mentioned in this letter. Interestingly, Paul never personally visited this valley as far as we know (2:1).'
+- id: 1st-thessalonians
+  title: 1st Thessalonians
+  excerpt: 'The Apostle Paul ministered in the city of Thessalonica (present day northern Greece) during his second missionary journey and following his ministry at Philippi.'
+- id: 2nd-thessalonians
+  title: 2nd Thessalonians
+  excerpt: 'The second letter to the Thessalonians was written by Paul about the same time as the first letter - A.D. 51. In it the apostle continues to thank God for these Christians and to assure them of his prayers.'
+- id: 1st-timothy
+  title: 1st Timothy
+  excerpt: '1st Timothy is one of three "pastoral epistles," namely 1st Timothy, 2nd Timothy and Titus. These books were written by the missionary-evangelist, Paul, to his younger proteges, Timothy, who was pastoring the Ephesian church, and Titus, who was pastoring the church on the island of Crete. This book was probably written about A.D 60.'
+- id: 2nd-timothy
+  title: 2nd Timothy
+  excerpt: "This letter was Paul's last. He is once again a prisoner for Christ - this time facing death. It is an intensely personal epistle written from the heart of the old warrior, Paul, to the younger minister, Timothy. Paul opens his heart as he reflects on his own ministry and on that of Timothy. It is a challenge that any minister or layperson can read with great profit."
+- id: titus
+  title: Titus
+  excerpt: 'The Book of Titus is one of three "pastoral letters" in the New Testament: 1 & 2 Timothy and Titus. The writer identifies himself as Paul (Titus 1:1). He writes to "Titus, my true son", (Titus 1:4).'
+- id: philemon
+  title: The Book of Philemon
+  excerpt: "Philemon is a private letter written by the Apostle Paul from his Roman imprisonment to Philemon, one of his converts and a good friend who lived in Colossae, located in present-day Turkey. A group of local Christians regularly met in Philemon's home as the Church in Colossae."
+- id: hebrews
+  title: The Book of Hebrews
+  excerpt: 'The book of Hebrews has an unknown author. Many in the past have thought that the Apostle Paul wrote it, or maybe Barnabas or Apollos. In recent centuries, since the Reformation, most have concluded that we just do not know who wrote it. Nevertheless, the Church, under the guidance of the Holy Spirit has accepted the canonicity and inspiration of Hebrews.'
+- id: james
+  title: The Book of James
+  excerpt: 'The book of James is one of the seven general epistles (James to Jude in the New Testament). It was written, it is believed, by James, the half-brother of Jesus, about A.D. 48 to A.D. 50 most likely in Jerusalem. It was written to Jews, who had scattered around the Roman Empire (James 1:1).'
+- id: 1st-peter
+  title: 1st Peter
+  excerpt: 'Simon Peter wrote the book of 1st Peter from "Babylon" (the city of Babylon in Mesopotamia? a town in Egypt? or the figurative name for Rome?) around A.D. 60, before or after. A wide range of subjects is covered, all of which are intended to strengthen the church in Northern Asia Minor in the face of a growing persecution. This is not a formal academic lecture (such as Romans) but rather a pastor exhorting his congregation. There is much in this letter that is relevant to Christians in the 21st Century.'
+- id: 2nd-peter
+  title: 2nd Peter
+  excerpt: '2nd Peter was written probably by the Apostle Peter, perhaps from Rome around A.D. 65 to 67. It was written shortly before his death apparently to the same churches he addressed in the first letter - namely the churches of Northern Asia Minor. There is no reference to suffering; therefore the threat of persecution must have disappeared, at least for the moment. There is much admonition to holy living, especially in the light of "the Day of the Lord".'
+- id: 1st-john
+  title: 1st John
+  excerpt: 'The beloved books of 1st, 2nd, & 3rd John were written by the Apostle John, who was one of the original 12 disciples. The authorship is not indicated in the text of the letters such as is found in the Pauline letters. Nevertheless, external evidence for the authorship of these three epistles by John is strong and without significant controversy.'
+- id: 2nd-john
+  title: 2nd John
+  excerpt: 'The beloved books of 1st, 2nd, & 3rd John were written by the Apostle John, who was one of the original 12 disciples. The authorship is not indicated in the text of the letters such as is found in the Pauline letters. Nevertheless, external evidence for the authorship of these three epistles by John is strong and without significant controversy.'
+- id: 3rd-john
+  title: 3rd John
+  excerpt: 'The beloved books of 1st, 2nd, & 3rd John were written by the Apostle John, who was one of the original 12 disciples. The authorship is not indicated in the text of the letters such as is found in the Pauline letters. Nevertheless, external evidence for the authorship of these three epistles by John is strong and without significant controversy.'
+- id: jude
+  title: The Book of Jude
+  excerpt: 'The book of Jude was written, most likely by another half brother of Jesus (the other one being James). It was written about A.D. 65.'
+- id: revelation
+  title: The Book of Revelation
+  excerpt: "The book of Revelation is the one prophetic book of the New Testament with 22 chapters. It was written by the Apostle John, one of Jesus' disciples, who also wrote the Gospel of John and the three epistles of John - five New Testament books in all. Revelation was written as John was in exile for his faith on the island of Patmos about A.D. 95."
+- id: special
+  title: Special Topics and Occasions
+  excerpt: 'Here you will find lessons that touch on special topics such as communion, people of faith, and special occasions such as Christmas and Easter. Other such lessons continue to be added from time to time.'
+- id: the-life-of-jesus
+  title: The Life of Jesus
+  excerpt: "The life of Jesus could be considered in a number of ways. Pastor Art has elected to touch on the high-points of the Lord's earthly existence and to do so in 12 lessons. This will take the listener from the eternity of Jesus through his earthly sojourn and back into his eternal state. Above all you will see Jesus as the Second Person of the Holy Trinity and in that role as the redeemer of humankind."
+- id: the-teachings-of-jesus
+  title: The Teachings of Jesus
+  excerpt: 'In speaking to his disciples Jesus said, "You call me Teacher and Lord and rightly so, for that is what I am" (John 13:13). But what did Jesus teach? The lessons that follow are by no means an exhaustive treatment of the subjects about which Jesus spoke. But it is a list of 16 important topics that Jesus explained and clarified to his followers.'
+- id: biblical-theology-101
+  title: Biblical Theology 101
+  excerpt: '"I Believe" Series. The study of theology is the consideration of God and all that relates to Him. The source of our information is the Bible, the uniquely inspired Word of God.'
+- id: prophecy-101
+  title: Prophecy 101
+  excerpt: 'Prophecy is eschatology or the study of the end times. The subject of Bible prophecy is complicated and can be controversial. There are various interpretations by good and competent persons. I do not claim to be an authority in this area.'
+- id: family-life-101
+  title: Family Life 101
+  excerpt: 'The life of the Christian family is of great concern to the believer. We live in a time, in the Western World, when the family is in breakdown. It is said that 50% of all marriages end in divorce. Sometimes there are children involved. They are greatly impacted. Then comes the reconstituted family with his kids, her kids and our kids. That has its challenges.'
+- id: discipleship-101
+  title: Discipleship 101
+  excerpt: 'It is critically important that a new Christian learn to be a disciple, a disciplined one, a faithful follower of Jesus Christ. If one has been "born again", now that person learns gradually to deal with the basic issues of the Christian life. For sure, there is much more to grasp, but the nine lessons below will give one a good beginning.'
+- id: fruit-of-the-spirit
+  title: Fruit of the Spirit
+  excerpt: "The \"Fruit of the Spirit\", based on Galations 5:22-23, is all about the Godly characteristics the Holy Spirit wants to grow inside each believer. We all have these nine characteristics in us, but they have been severely damaged by sin. Therefore, following our salvation the Holy Spirit takes up residence in us and begins the process of not only damage control, but also damage repair. That's what these lessons are about - how the Holy Spirit works in our lives all through life to make us more like Jesus in nine important areas."
+- id: spiritual-disciplines-101
+  title: Spiritual Disciplines 101
+  excerpt: 'Spiritual Disciplines are practices that draw us near to God. The disciplines themselves are not the objective. What we want is to know God. Through these disciplines we draw near to God and God draws near to us.'
+- id: growing-in-christ
+  title: Growing in Christ
+  excerpt: 'The apostle Peter wrote in his second letter, "Grow in the grace and knowledge of our Lord and Savior Jesus Christ" (2Peter 3:18). Just the word "grow" implies our need for progress. As Christians there is always new territory to claim.'
+- id: attributes-of-god
+  title: Attributes of God
+  excerpt: 'The study of the attributes (characteristics) of God is exciting. It tells us what God is like and how he relates to us. '
+- id: heart-of-god
+  title: Heart of God
+  excerpt: 'What is God really interested in? What moves his heart? The following lessons tell you what is important to God.'
+- id: gifts-of-god
+  title: Gifts of God
+  excerpt: 'When we become Christians there begins a process of enrichment. God gives us his good gifts over time. No good gift will he withhold from us. HE is a benevolent God.'

@@ -1,0 +1,74 @@
+---
+---
+@import "bootstrap";
+@import "bootswatch";
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 90px;
+}
+.footer {
+  position: absolute;
+  padding-top: 10px;
+  bottom: 0;
+  width: 100%;
+  height: 90px; /* Set the fixed height of the footer here */
+  background-color: $gray-lighter;
+}
+.container {
+  max-width: 960px;
+}
+.jumbotron {
+  margin-bottom: $padding-large-vertical;
+  .img-responsive {
+    float: left;
+    clear: both;
+    max-width: 300px;
+  }
+}
+.block-links {
+  padding-bottom: $padding-large-vertical;
+  a {
+    display: block;
+    color: $text-color;
+  }
+  a:hover {
+    color: $text-color;
+  }
+}
+@media (min-width: 768px) {
+  .editorial-list .img-thumbnail {
+    margin-top: 26px;
+  }
+}
+@media (max-width: 768px) {
+  .center-xs {
+    text-align: center;
+
+    .btn {
+      width: 45%;
+    }
+  }
+}
+.basic, .editorial {
+  .img-thumbnail {
+    margin: 0 0 $padding-base-vertical $padding-base-horizontal;
+  }
+}
+.logo {
+  @media (min-width: 768px) {
+    width: 45%;
+  }
+}
+.book-index iframe {
+  margin-bottom: $padding-large-vertical;
+}
+.social-links {
+  li {
+    height: 25px;
+    vertical-align: top;
+  }
+}

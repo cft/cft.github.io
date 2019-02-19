@@ -1,0 +1,9 @@
+- name: About
+  url: /about/
+- name: Resources
+  children:
+    - name: Statement of Faith
+      url: /statement-of-faith/
+      title: What do we here at CFT believe?
+    - name: How to Become a Christian
+      url: /become-a-christian/

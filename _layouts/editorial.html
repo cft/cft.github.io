@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div id="masthead">
+  <div class="container">
+    <header>
+      <h1>{{ page.title }}{% assign author = site.data.people[page.author] %}
+        <p class="lead"><time pubdate datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {{ author.name }}{% if author.caption %} &ndash; {{ author.caption }}{% endif %}</p>
+      </h1>
+    </header>
+  </div>
+</div>
+<div class="container editorial">
+  <div class="row">
+    <div class="col-md-12">
+      {% if page.img %}<img src="{{ page.img }}" class="pull-right img-thumbnail"{% if page.img_caption %} alt="{{ page.img_caption }}"{% endif %}>{% endif %}
+{{ content }}
+    </div>
+  </div>
+  {% if page.social %}<div class="row">
+    <div class="col-md-12">
+      <ul class="list-inline social-links">
+        <li><div class="fb-share-button" data-href="{{ page.url | absolute_url | remove: 'index.html' | replace: 'http:', 'https:' }}" data-layout="button"></div></li>
+        <li><a href="https://twitter.com/intent/tweet" class="twitter-share-button"></a></li>
+      </ul>
+    </div>
+  </div>{% endif %}
+</div>

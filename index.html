@@ -1,28 +1,24 @@
 ---
+permalink: /
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="{{ site.meta.ua_compatible }}">
-  <meta name="viewport" content="{{ site.meta.viewport }}">
-  <title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ site.meta.description }}">
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}, {% endif %}{{ site.meta.keywords }}">
-  <meta name="rating" content="{{ site.meta.rating }}">
-  <meta name="copyright" content="Copyright &copy; {{ site.meta.copyright_year }}-{{ site.time | date: '%Y' }} {{ site.meta.copyright_owner }}, All Rights Reserved">
-  <link rel="icon" href="{{ site.assets.favicon }}"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"><link rel="stylesheet" href="{{ site.assets.css.site }}">
-</head>
-<body>
-<div class="container">
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2 text-center">
-      <img src="/img/cft_l.png" width="270"/>
-      <h3>{{ site.title }} is Under Construction</h3>
-    </div>
-  </div>
+<div class="jumbotron">
+  <img src="/img/cft_l.png" class="img-responsive" alt="Responsive image">
+  <h1>Welcome</h1>
+  <p class="lead">We are glad to have you visit Christianity For Today.<br>Below you will find links to the resources available on our website, including lessons by Pastor Art and more information about the mission of CFT.</p>
 </div>
-{% include footer.html %}
-{% include footerjs.html %}
-</body>
-</html>
+<div class="row block-links">
+  <a href="/books/" title="Lessons">
+    <div class="col-sm-6">
+      <h3 class="text-center">Lessons</h3>
+      <p>Follow along with Pastor Art's biblical teaching from the Old and New Testaments: 639 audio lessons are available.</p>
+      <div class="center-xs"><div class="lead read-more btn btn-default btn-sm">Read More</div></div>
+    </div>
+  </a>
+  <a href="/about/" title="About">
+    <div class="col-sm-6">
+      <h3 class="text-center">About</h3>
+      <p>Christianity For Today is a Biblical and evangelical ministry which uses the internet to spread the good news of Jesus Christ to the world.</p>
+      <div class="center-xs"><div class="lead read-more btn btn-default btn-sm">Read More</div></div>
+    </div>
+  </a>
+</div>

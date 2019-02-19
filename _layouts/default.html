@@ -1,0 +1,39 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="{{ site.meta.viewport }}">
+<title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.meta.description }}{% endif %}">
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}, {% endif %}{{ site.meta.keywords }}">
+<meta name="rating" content="{{ site.meta.rating }}">
+<meta name="copyright" content="Copyright &copy; {{ site.meta.copyright_year }}-{{ site.time | date: '%Y' }} {{ site.meta.copyright_owner }}, All Rights Reserved">
+{% if site.meta.og.site_name %}<meta property="og:site_name" content="{{ site.meta.og.site_name }}">{% endif %}
+{% if page.url != '/404.html' %}
+{% if page.og.type %}<meta property="og:type" content="{{ page.og.type }}">{% endif %}
+{% if page.title %}<meta property="og:title" content="{{ page.title }} &middot; {{ site.title }}">{% endif %}
+{% if page.url %}<meta property="og:url" content="{{ page.url | absolute_url | remove: 'index.html' | replace: 'http:', 'https:' }}">{% endif %}
+{% if page.author %}{% assign author = site.data.people[page.author] %}<meta property="article:author" content="{% if author.facebook %}{{ author.facebook }}{% else %}{{ author.name }}{% endif %}">{% endif %}
+{% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
+{% if page.img %}<meta property="og:image" content="{{ page.img | absolute_url | replace: 'http:', 'https:' }}">{% endif %}
+{% if site.analytics.facebook_appid %}<meta property="fb:app_id" content="{{ site.analytics.facebook_appid }}">{% endif %}
+<link rel="canonical" href="{{ page.url | absolute_url | replace: 'http:', 'https:' }}">{% endif %}
+<link rel="stylesheet" href="{{ site.assets.css }}">
+{% include analytics.html %}
+{% if page.social %}{% include social.html %}{% endif %}
+</head>
+<body>
+{% include nav.html %}
+<div class="container">
+{{ content }}
+</div>
+<footer class="footer small">
+  <div class="container">
+    <p class="text-muted">Copyright&nbsp;&copy;&nbsp;{{ site.meta.copyright_year }}-{{ site.time | date: '%Y' }} {{ site.meta.copyright_owner }}. All rights reserved.<br><a href="/privacy/" title="Privacy Policy">Privacy Policy</a> &middot; <a href="/terms/" title="Terms of Service">Terms of Service</a></p>
+  </div>
+</footer>
+<script src="{{ site.assets.js }}"></script>
+</body>
+</html>
